@@ -1,8 +1,0 @@
-# Lexical Tools
-
-Most of the things I've made or fixed for [Garry's Mod](https://gmod.facepunch.com/) in various states of functionality.
-
-## Workshop links
-* [NPC Spawn Platforms](https://steamcommunity.com/sharedfiles/filedetails/?id=107821465)
-* [Moneypot](https://steamcommunity.com/sharedfiles/filedetails/?id=109905241)
-* [Weapon Spawn Platforms](https://steamcommunity.com/sharedfiles/filedetails/?id=710793136)
